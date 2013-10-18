@@ -14,7 +14,7 @@ jQuery(document).ready(function($)
 #Use code preview
 
 <code>
-<section class="content">
+`<section class="content">
 <pre>
 // © 2012-2013, [ Abstract Codify ] Abstractcodify.com All Rights Reserved.
 function http_check( $url = '' ) 
@@ -29,5 +29,5 @@ function http_check( $url = '' )
 	}
 }
 </pre>
-</section>
+</section>`
 </code>
